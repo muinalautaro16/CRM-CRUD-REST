@@ -6,6 +6,13 @@
       "telefono": "264844",
       "empresa": "acer",
       "id": 27
+    },
+    {
+      "nombre": "coti",
+      "email": "coti@coreo.com",
+      "telefono": "12312414",
+      "empresa": "contiShop",
+      "id": 28
     }
   ]
 }
